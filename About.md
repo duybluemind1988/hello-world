@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
-layout: template
-filename: NAME OF THIS .md FILE HERE
+layout: page
+title: About
+permalink: /about/
 --- 
 
 This page is summary information about me:
